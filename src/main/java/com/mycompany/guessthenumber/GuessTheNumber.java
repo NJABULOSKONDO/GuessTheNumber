@@ -20,7 +20,13 @@ public class GuessTheNumber {
 
         System.out.println("Guess a number between 1 and 10:");
 
-       
+        while (true) {
+            userGuess = scanner.nextInt();
+
+            if (userGuess == secretNumber) {
+                System.out.println("Congratulations! You've guessed right!");
+                break; // Exit the loop if the guess is correct
+            }
 
             
         }
