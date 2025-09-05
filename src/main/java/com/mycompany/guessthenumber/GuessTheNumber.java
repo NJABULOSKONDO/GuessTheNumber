@@ -26,9 +26,10 @@ public class GuessTheNumber {
             if (userGuess == secretNumber) {
                 System.out.println("Congratulations! You've guessed right!");
                 break; // Exit the loop if the guess is correct
+            } else {
+                System.out.println("Try again!");
             }
-
-            
         }
+        scanner
     }
 }
