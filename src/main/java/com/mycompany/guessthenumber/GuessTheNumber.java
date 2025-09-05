@@ -8,6 +8,8 @@ package com.mycompany.guessthenumber;
  *
  * @author Vavi Fuyego
  */
+import java.util.Scanner;
+
 public class GuessTheNumber {
 
     public static void main(String[] args) {
