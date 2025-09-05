@@ -6,7 +6,7 @@ package com.mycompany.guessthenumber;
 
 /**
  *
- * @author Vavi Fuyego
+ * @author Njabulo Skondo (ST10469706)
  */
 import java.util.Scanner;
 
