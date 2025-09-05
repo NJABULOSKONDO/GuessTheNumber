@@ -30,6 +30,6 @@ public class GuessTheNumber {
                 System.out.println("Try again!");
             }
         }
-        scanner
+        scanner.close();
     }
 }
